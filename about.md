@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Welcome. My name is Daniel (FigNewtons), and I'm a mathematics major at
+the University of North Carolina at Charlotte. Some of my interests include:
+music, philosophy of science, A.I./machine learning, and *of course* math.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[dgruszcz@uncc.edu](mailto: dgruszcz@uncc.edu)
